@@ -19,7 +19,7 @@ export const EXPERIENCES = [
     year: "Sep 2023 - Feb 2024",
     role: "Full Stack Java Devloper(Intern)",
     company: "Anudip Foundation",
-    description: `●	In my internship, I developed websites and used HTML, CSS, and JavaScript to create responsive web applications, collaborating effectively with teams.`,
+    description: `In my internship, I developed websites and used HTML, CSS, and JavaScript to create responsive web applications, collaborating effectively with teams.`,
     technologies: ["HTML", "CSS", "React.js", "mySQL"],
   },
   {
