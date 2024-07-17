@@ -23,14 +23,14 @@ export const EXPERIENCES = [
     technologies: ["HTML", "CSS", "React.js", "mySQL"],
   },
   {
-    year: "2021 - 2022",
+    year: "Jan 2023 - Mar 2023",
     role: "Full Stack Devloper(Intern)",
     company: "V3 DATA SOLUTIONS",
     description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
     technologies: ["React.js", "Node.js", "Postgres"],
   },
   {
-    year: "May 2022 - Aug 2021",
+    year: "May 2022 - Aug 2022",
     role: " Data-Science(Intern)",
     company: "Automaton AI Infosystem Pvt Ltd",
     description: `Annotated image datasets.Collaborated with cross-functional teams to design and implement data visualization dashboards in Power Bi, enhancing data accessibility and driving data-informed decision-making across the organization.`,
