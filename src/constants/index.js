@@ -64,7 +64,7 @@ export const PROJECTS = [
     link: "#"
   },
   {
-    title: "Seysis Website",
+    title: "Sevysis Website",
     image: project4,
     description:
       "A Company Website website Company projects, skills, and contact information." ,
