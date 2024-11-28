@@ -76,5 +76,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "C-5 PranayRaj Plaza Gokul-nagar,Dhanori,Pune-411015 ",
   phoneNo: "+91-7972925223 ",
-  email: "Deshmaneuttu311@gmail.com",
+  email: "deshmaneuttu311@gmail.com",
 };
