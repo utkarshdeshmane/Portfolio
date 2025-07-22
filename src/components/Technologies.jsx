@@ -2,8 +2,8 @@ import React from "react";
 import { RiReactjsLine } from "react-icons/ri";
 import Python from "../assets/Tech/python.png"; 
 import DataScience from "../assets/Tech/data-science.png"; 
-import PowerBi from "../assets/Tech/power-bi.png"; 
-import Figma from "../assets/Tech/figma.png"; 
+import Aws from "../assets/Tech/aws.png"; 
+import langchain from "../assets/Tech/langchain.png"; 
 import flutter from "../assets/Tech/flutter.png"; 
 import ML from "../assets/Tech/machine-learning.png"; 
 import JS from "../assets/Tech/node-js.png"; 
@@ -58,14 +58,14 @@ export const Technologies = () => {
         initial="initial"
         animate="animate"
         className="rounded-2xl border-4 border-neutral-800 p-4">
-          <img src={PowerBi} alt="py" className="h-20 w-20" />
+          <img src={Aws} alt="py" className="h-20 w-20" />
         </motion.div>
         <motion.div 
         variants={iconVariants(2.5)}
         initial="initial"
         animate="animate"
         className="rounded-2xl border-4 border-neutral-800 p-4">
-          <img src={Figma} alt="py" className="h-20 w-20" />
+          <img src={langchain} alt="py" className="h-20 w-20" />
         </motion.div>
         <motion.div 
         variants={iconVariants(2.5)}

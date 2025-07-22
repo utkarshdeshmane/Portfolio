@@ -23,7 +23,7 @@ export const HeroSection = () => {
              initial={{ x: -100, opacity: 0 }}
              transition={{ duration: 1 }}
              className="bg-gradient-to-r from-pink-400 to-purple-600 bg-clip-text text-3xl tracking-tight text-transparent">
-              Data Analyst
+              AI Engineer
             </motion.span>
             <motion.p 
              whileInView={{ opacity: 1, x: 0 }}
